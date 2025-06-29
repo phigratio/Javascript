@@ -71,3 +71,11 @@
 
   // Calling the function
   greet("Muqtu");
+
+  // Calculating the sum of two numbers
+  function sum(a, b) {
+    return a + b;
+  }
+  // Calling the sum function
+  let result = sum(5, 10);
+  console.log(result); // 15
